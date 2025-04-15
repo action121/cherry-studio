@@ -2070,6 +2070,14 @@ export const SYSTEM_MODELS: Record<string, Model[]> = {
       name: 'Qwen2.5 72B Instruct',
       group: 'Qwen'
     }
+  ],
+  fengkuzi: [
+    {
+      id: 'deepseek-r1-32b',
+      provider: 'fengkuzi',
+      name: 'DeepSeek R1 32B',
+      group: 'kuzi'
+    },
   ]
 }
 

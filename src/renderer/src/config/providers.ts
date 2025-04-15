@@ -583,5 +583,16 @@ export const PROVIDER_CONFIG = {
       docs: 'https://developer.qiniu.com/aitokenapi',
       models: 'https://developer.qiniu.com/aitokenapi/12883/model-list'
     }
+  },
+  fengkuzi: {
+    api: {
+      url: 'http://10.49.4.97:11434'
+    },
+    websites: {
+      official: 'http://10.49.4.97',
+      apiKey: 'http://10.49.4.97',
+      docs: 'http://10.49.4.97',
+      models: 'http://10.49.4.97'
+    }
   }
 }

@@ -147,6 +147,16 @@ export const INITIAL_PROVIDERS: Provider[] = [
     enabled: false
   },
   {
+    id: 'fengkuzi',
+    name: '冯裤子😄😄',
+    type: 'openai',
+    apiKey: '',
+    apiHost: 'http://10.49.4.97:11434',
+    models: SYSTEM_MODELS.fengkuzi,
+    isSystem: true,
+    enabled: false
+  },
+  {
     id: 'baidu-cloud',
     name: 'Baidu Cloud',
     type: 'openai',
